@@ -8,8 +8,8 @@
  * @authorId 923673780155457577
  */
 
- @import url(https://fonts.googleapis.com/css2?family=Oxygen:wght@100;300;400;500;700&display=swap);
- @import url(https://github.com/GitHubIdiotInTheWild/betterdiscord-theme/blob/main/untitleddiscordtheme.theme.css);
+ @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@100;300;400;500;700&display=swap');
+ @import url('https://github.com/GitHubIdiotInTheWild/betterdiscord-theme2');
  @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
  :root {
